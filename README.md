@@ -1,13 +1,31 @@
-# flutter_wallet_ui_challenge
+# Flutter Wallet UI Challenge
 
-A new Flutter project.
+A modern and elegant wallet UI created with Flutter. This project showcases a wallet application interface featuring home and overview pages, designed to provide an engaging user experience.
 
-Project Demo Video : https://www.youtube.com/watch?v=Vyj65qh_QiA
+---
 
-## Getting Started
-Flutter Wallet UI Challange
-  
-  Page Name | Pictures   
- --- | --- 
- [Wallet Home Page] | <img src="screens/homepage.png" height= "800"/>
- [Overview Page] | <img src="screens/overviewpage.png" height= "800"/>
+## Screenshots
+
+| Page Name         | Preview                                                                 |
+|-------------------|-------------------------------------------------------------------------|
+| **Wallet Home**   | <img src="screens/homepage.png" height="800"/>                         |
+| **Overview Page** | <img src="screens/overviewpage.png" height="800"/>                     |
+
+---
+
+## Features
+
+- Intuitive and clean design.
+- Responsive UI for various screen sizes.
+- Wallet overview and transaction details.
+- Custom animations and widgets.
+
+---
+
+## Installation
+
+Follow these steps to set up the project locally:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/surajdudhe7/flutter_wallet_ui_challenge.git
